@@ -2,7 +2,7 @@
 
 Full-stack and mobile engineer building software that feels simple on the surface and stays understandable underneath.
 
-I'm finishing a B.S. in Computer Science at UMBC, expected December 2026. At Cisco, I built the first version of an internal MCP platform for discovering and calling engineering tools, then returned to improve its performance and reliability for 5+ engineering teams.
+I'm finishing a B.S. in Computer Science at UMBC, expected May 2027. At Cisco, I built the first version of an internal MCP platform for discovering and calling engineering tools, then returned to improve its performance and reliability for 5+ engineering teams.
 
 ## Selected work
 
