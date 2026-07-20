@@ -4,13 +4,14 @@ Full-stack and mobile engineer building software that feels simple on the surfac
 
 I'm finishing a B.S. in Computer Science at UMBC, expected May 2027. At Cisco, I built the first version of an internal MCP platform for discovering and calling engineering tools, then returned to improve its performance and reliability for 5+ engineering teams.
 
+I'm now building an agent-first car rental management platform, part of a broader push to create useful AI agents for small businesses.
+
 ## Selected work
 
-- **[baasdk](https://github.com/2bTwist/baasdk)**: A portable TypeScript contract over Supabase, Convex, and in-memory backends, backed by one conformance suite and explicit capability flags.
-- **[component-previewer](https://github.com/2bTwist/component-previewer)**: A React Native component previewer that renders CSF stories inside an app's real provider shell on native and web.
-- **[TactileLens](https://github.com/chisomogugu/TactileLens---Vision-to-Haptics-AI-Application)**: An Android accessibility app that turns camera textures into real-time haptics and sound. Finalist at the Qualcomm x Google Developer Hackathon.
-- **[BeSeen](https://apps.apple.com/app/id6760330166)**: An offline-first iOS wellness app for couples, built end to end in React Native and used by 200+ active users.
 - **[eddyb.dev](https://eddyb.dev)**: My portfolio and writing site, designed like a code editor while remaining fast, accessible, and usable without JavaScript.
+- **[TactileLens](https://github.com/chisomogugu/TactileLens---Vision-to-Haptics-AI-Application)**: An Android accessibility app that turns camera textures into real-time haptics and sound. Finalist at the Qualcomm x Google Developer Hackathon.
+- **[component-previewer](https://github.com/2bTwist/component-previewer)**: A React Native component previewer that renders CSF stories inside an app's real provider shell on native and web.
+- **[BeSeen](https://apps.apple.com/app/id6760330166)**: An offline-first iOS wellness app for couples, built end to end in React Native and used by 200+ active users.
 
 ## Interests
 
